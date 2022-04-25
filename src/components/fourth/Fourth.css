@@ -1,0 +1,25 @@
+.guarantee{
+    margin-top: 105px;
+}
+
+.guarantee-header{
+    font-size: 2.0rem;
+    font-weight: 500;
+    text-align: center;
+    color: var(--zuglo-color);
+    padding-bottom: 30px;
+}
+
+.guarantee-header-bold{
+    font-size: 1.8rem;
+    font-weight: 500;
+    padding-bottom: 15px;
+    text-align: justify;
+}
+
+.guarantee-text{
+    font-size: 1.7rem;
+    font-weight: 300;
+    text-align: justify;
+    margin-bottom: 20px;
+}

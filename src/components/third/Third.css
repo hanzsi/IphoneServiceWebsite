@@ -1,0 +1,23 @@
+.faq-site{
+    margin-top: 105px;
+}
+
+.question{
+    font-size: 1.8rem;
+    font-weight: 500;
+    padding-bottom: 8px;
+    text-align: justify;
+    color: var(--zuglo-color);
+}
+.answer{
+    font-size: 1.7rem;
+    font-weight: 300;
+    padding-bottom: 30px;
+    text-align: justify;
+}
+
+.last-text{
+    font-size: 1.7rem;
+    font-weight: 500;
+    padding: 30px 0;
+}
